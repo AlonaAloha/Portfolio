@@ -3,3 +3,7 @@ h1 {
   font-family: 'Playfair Display', serif;
   font-weight: bold;
 }
+i {
+  display: block;
+  font-weight: 100px;
+}
