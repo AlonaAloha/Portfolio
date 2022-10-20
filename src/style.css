@@ -69,3 +69,23 @@ line-height:1.5;
     text-align: center;
   }
 }
+.container h1 {
+  font-family: var(--heading-font-family);
+  font-size: 64px;
+  line-height: 1;
+}
+.container h2 {
+font-family: var(--primary-font-family);
+font-size: 20px;
+}
+.about-section {
+  
+  padding: 40px 20px;
+  margin: 30px;
+  
+}
+.container {
+background:#FFF7DF ;
+text-align: center;
+padding: 0;
+}
