@@ -1,6 +1,6 @@
 :root {
   --brading-color:#f9f7fd;
-  --primary-color:rgb(195, 43, 226);
+  --primary-color:#885df1;
   --heading-font-family:'Playfair Display', serif;
   --primary-font-family: 'Poppins', sans-serif;
 }
@@ -85,7 +85,6 @@ font-size: 20px;
   
 }
 .container {
-background:#FFF7DF ;
 text-align: center;
 padding: 0;
 }
