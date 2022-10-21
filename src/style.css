@@ -8,6 +8,10 @@ h2 {
   font-size: 45px;
   font-family: var(--primary-font-family);
 }
+h3 {
+   font-size: 45px;
+  font-family: var(--primary-font-family);
+}
 p {
   font-weight: normal;
   font-size: 16px;
@@ -52,6 +56,15 @@ line-height:1.5;
   color: white;
   font-size: 18px;
   line-height: 27px; 
+}
+.content a {
+  background:var(--primary-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  text-decoration: none;
+  padding: 8px;
 }
 .mg-fluid {
   max-width: 80%;
