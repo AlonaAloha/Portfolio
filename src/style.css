@@ -101,3 +101,14 @@ font-size: 20px;
 text-align: center;
 padding: 0;
 }
+.family {
+  max-width: 50px;
+  border-radius: 5px;
+  padding-right:20px ;
+} 
+.nov a {
+  margin:10px ;
+  font-family: var(--primary-font-family);
+}
+
+
