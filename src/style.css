@@ -4,6 +4,8 @@
   --heading-font-family:'Playfair Display', serif;
   --primary-font-family: 'Poppins', sans-serif;
 }
+
+
 h2 {
   font-size: 45px;
   font-family: var(--primary-font-family);
@@ -44,15 +46,17 @@ footer .btn-branding a {
   line-height: 27px; 
 }
 
-footer .email-link {
-  text-decoration: none;
+footer .d-flex  a {
+  font-family: var(--heading-font-family);
+background: var(--brading-color);
+text-decoration: none;
 color: black;
 text-align: center;
 font-size: 24px;
 }
-footer .email-link:hover{
+footer .d-flex a:hover{
   color: var(--primary-color);
-  padding: 30px;
+ 
   
 }
 footer .social-links a {
@@ -60,16 +64,16 @@ margin: 0 20px;
 color: var(--primary-color);
 background: var(--brading-color);
 padding: 10px 14px;
+width: 18px;
 font-size: 18px;
 border-radius: 50%;
-width: 18px;
 height: 18px;
 transition:all 100ms ease-in-out ;
 
 }
-footer .social-link a:hover{
-  color:var(--primary-color);
-  background: var(--brading-color);
+footer .social-links a:hover{
+  color:var(--brading-color);
+  background: var(--primary-color);
 }
 .hero {
   background-color:var(--brading-color) ;
@@ -110,6 +114,20 @@ line-height:1.5;
   font-size: 18px;
   line-height: 27px; 
 }
+.content-elements a {
+font-family: var(--heading-font-family);
+background: var(--brading-color);
+text-decoration: none;
+color:var(--primary-color);
+text-align: center;
+font-size: 24px;
+}
+footer .d-flex a:hover{
+  color: var(--primary-color);
+ 
+  
+}
+
 .content a {
   background:var(--primary-color);
   border-radius: 4px;
