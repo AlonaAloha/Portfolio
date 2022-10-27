@@ -30,8 +30,8 @@ p {
     opacity: 50;
   max-width: 65%;
   border-style: solid  ;
-  border-color:#885df1;
-  box-shadow:10px 5px 5px grey ; 
+  border-color:whitesmoke;
+  box-shadow:10px 5px 5px rgba(128, 128, 128, 0.725) ; 
 }
    
   }
@@ -176,8 +176,8 @@ font-size: 24px;
     opacity: 50;
   max-width: 65%;
   border-style: solid  ;
-  border-color:#885df1;
-  box-shadow:10px 5px 5px grey ; 
+  border-color:rgba(0, 0, 0, 0.516);
+  box-shadow:10px 5px 5px rgb(128, 128, 128) ; 
 }
 .container h1 {
   font-family: var(--heading-font-family);
